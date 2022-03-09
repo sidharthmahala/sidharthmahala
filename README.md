@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidharth Mahala</h1>
-<h3 align="center">A passionate Blockchain/Solidity developer from India</h3>
+<h3 align="center">A passionate Blockchain/Solidity, javaScript developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthmahala&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthmahala" /> </p>
 
@@ -10,9 +10,6 @@
 - 💬 Ask me about **JavaScript, Blockchain, Solidity, truffle**
 
 - 📫 How to reach me **sidharthmahala@gmail.com**
-
-- ⚡ Fun fact **not funny at all.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidharthmahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidharthmahala" height="30" width="40" /></a>
