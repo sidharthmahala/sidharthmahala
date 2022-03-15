@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sidharthmahala" target="blank"><img src="https://img.shields.io/twitter/follow/sidharthmahala?logo=twitter&style=for-the-badge" alt="sidharthmahala" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, Solidity, truffle**
+- I’m currently learning **Blockchain, Solidity, truffle**
 
 - 💬 Ask me about **JavaScript, Blockchain, Solidity, truffle**
 
