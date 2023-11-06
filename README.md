@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidharthmahala" target="blank"><img src="https://img.shields.io/twitter/follow/sidharthmahala?logo=twitter&style=for-the-badge" alt="sidharthmahala" /></a> </p>
 
-- I’m currently learning **ReactJs, NodeJs**
+- I’m currently learning **ReactJs, NodeJs, VueJs**
 
-- 💬 Ask me about **JavaScript, ReactJs, CSS, Webpack, Blockchain**
+- 💬 Ask me about **JavaScript, ReactJs, Vuejs, CSS, TailwindCss**
 
 - 📫 How to reach me **sidharthmahala@gmail.com**
 <h3 align="left">Connect with me:</h3>
