@@ -24,9 +24,4 @@
 <p><a target="_blank" href="https://twitter.com/sidharthmahala" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/sidharthmahala" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/sidharthmahala" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/sidharth_mahala" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedsidharthmahala" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthmahala&show_icons=true&locale=en" alt="sidharthmahala" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthmahala&" alt="sidharthmahala" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharthmahala&show_icons=true&locale=en&layout=compact" alt="sidharthmahala" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidharthmahala" alt="sidharthmahala" /></a></p>
+<a target="_blank" href="https://www.instagram.com/sidharth_mahala" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
